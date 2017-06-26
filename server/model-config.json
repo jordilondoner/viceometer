@@ -38,5 +38,9 @@
   "Fag": {
     "dataSource": "db",
     "public": true
+  },
+  "DrinkUnit": {
+    "dataSource": "db",
+    "public": true
   }
 }
